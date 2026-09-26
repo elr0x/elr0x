@@ -12,13 +12,15 @@
 </p>
 
 ```console
-visitor@fernandoromo:~$ whoami
-Purple Team Cybersecurity Analyst: I attack like an adversary and defend like a SOC analyst.
+$ whoami
+Purple Team Cybersecurity Analyst
+I attack like an adversary and defend like a SOC analyst.
 
-visitor@fernandoromo:~$ cat now.txt
-SOC Specialist in ON2IT's 24/7 Global SOC, investigating and resolving security incidents
-with Palo Alto Networks Cortex XDR and next-generation firewalls (PAN-OS).
-Studying for CRTO. Student of ICT & Cybersecurity at Fontys University of Applied Sciences.
+$ cat now.txt
+SOC Specialist @ ON2IT (24/7 Global SOC)
+Resolving incidents with Cortex XDR and PAN-OS firewalls
+Studying for CRTO
+ICT & Cybersecurity student @ Fontys
 ```
 
 ### 🟥 Offense · 🟦 Defense · 🟪 Both
